@@ -19,7 +19,7 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
-echo 'svn co https://github.com/liuran001/openwrt-packages/branches/packages' >>feeds.conf.default
+# echo 'svn co https://github.com/liuran001/openwrt-packages/branches/packages' >>feeds.conf.default
 # git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/MentoHUST-OpenWrt-ipk
 # git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
 # git clone https://github.com/pymumu/smartdns.git package/smartdns
